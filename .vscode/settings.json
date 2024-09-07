@@ -1,3 +1,14 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "CESNA",
+        "dropna",
+        "dtypes",
+        "ffill",
+        "fillna",
+        "Mochama",
+        "nunique",
+        "Okomba",
+        "remaing"
+    ]
 }
