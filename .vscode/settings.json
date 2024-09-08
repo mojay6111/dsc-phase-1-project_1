@@ -1,14 +1,19 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.words": [
+        "barplot",
         "CESNA",
         "dropna",
         "dtypes",
         "ffill",
+        "figsize",
         "fillna",
         "Mochama",
         "nunique",
         "Okomba",
-        "remaing"
+        "remaing",
+        "viridis",
+        "xlabel",
+        "xticks"
     ]
 }
