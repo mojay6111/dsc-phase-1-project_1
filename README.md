@@ -67,3 +67,19 @@ Throughout the analysis, I created several visualizations to better understand t
 ![Accident Frequency by Purpose of Flight](image-2.png)
 
 Each of these visualizations provided crucial insights into accident risk factors, helping narrow down which aircraft are best suited for investment, which operational environments need more caution, and how certain factors like weather and flight purpose contribute to risks.
+
+# Findings
+* Private Flights: Show a higher risk, possibly due to less stringent safety regulations or the use of amateur-built aircraft.
+* Commercial Flights: Generally have lower risk profiles.
+* Cargo and Training Flights: Risk levels vary with the nature of their operations.
+
+### Conclusion and Answers to Key Questions:
+
+**1. Defining "Low Risk" Criteria:**
+Low-risk aircraft can be defined by several factors: accident frequency, injury severity, and incident conditions. Aircraft models with fewer accidents, lower injury severity, and stable performance across various environments and flight phases can be considered low risk. The criteria should prioritize safety records, maintenance history, and operational efficiency. Based on the data, certain makes like **Cessna** had frequent incidents but may vary in severity, depending on flight purpose and environmental conditions.
+
+**2. Environmental Factors and Accident Likelihood:**
+The analysis shows that **weather conditions** play a significant role in accident rates. Aircraft operating in adverse weather conditions (like **unknown or severe conditions**) or in geographically challenging areas have higher accident frequencies. Locations with specific weather patterns may increase the risk, indicating that routes or areas with frequent bad weather should be treated with caution.
+
+**3. Purpose of Flight and Risk Profiles:**
+The purpose of the flight greatly influences risk. **Commercial flights** and **private flights** tend to have different accident severities, with private flights showing a higher risk, potentially due to less stringent safety regulations or amateur-built aircraft. Meanwhile, **cargo** and **training flights** showed varying degrees of accidents, often tied to the nature of their operations, and this should be factored into decisions on which aircraft are used for different purposes.
