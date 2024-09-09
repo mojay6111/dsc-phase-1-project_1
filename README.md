@@ -66,7 +66,4 @@ Throughout the analysis, I created several visualizations to better understand t
 
 ![Accident Frequency by Purpose of Flight](image-2.png)
 
-3. **Weather and Environmental Conditions**:
-   - I plotted the distribution of accidents across different weather conditions and flight phases. These visualizations highlighted how certain conditions (like `Adverse` weather) and flight phases (like `Landing` or `Takeoff`) contribute to higher accident rates, enabling me to assess environmental risks when selecting aircraft.
-
 Each of these visualizations provided crucial insights into accident risk factors, helping narrow down which aircraft are best suited for investment, which operational environments need more caution, and how certain factors like weather and flight purpose contribute to risks.
