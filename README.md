@@ -1,3 +1,39 @@
+
+# OVERVIEW
+
+## Business Problem
+
+Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+
+# Business Understanding
+As we expand into the aviation industry, I recognize the importance of thoroughly understanding the risks associated with purchasing and operating aircraft for both commercial and private enterprises. To ensure our success and minimize potential hazards, I will use the CRISP-DM methodology to systematically analyze aviation risks. My focus will be on identifying the aircraft with the lowest risk, predicting which models are more likely to be involved in accidents, and examining the environmental and operational factors that contribute to these risks.
+
+To achieve this, I will gather and analyze data on aircraft specifications, safety records, incident reports, and more. By applying advanced modeling techniques, I’ll be able to provide actionable insights that will guide our decisions on which aircraft to purchase and how to operate them safely. Ultimately, my goal is to deliver clear, data-driven recommendations that will help us confidently enter the aviation industry while ensuring the highest level of safety and operational efficiency.
+
+## Objectives
+* To determine which aircraft/make have the lowest risk for our company.
+* To identify aircraft models most likely to be involved in accidents.
+* To pinpoint locations or environments where incidents happen more frequently to guide our operational decisions.
+* To evaluate whether we should invest in amateur-built aircraft.
+* To analyze the dataset to find aircraft types with the lowest incident and accident rates.
+* To determine the key factors that contribute to aviation risks, such as weather, flight phase, and aircraft age.
+* To examine the purpose of the flight to see how it affects risk levels.
+
+# Questions To Consider
+* What specific criteria define "low risk" for aircraft, and how should these criteria be prioritized.
+* How do environmental factors like weather and geography influence the likelihood of an accident for certain aircraft types?
+* What impact does the purpose of the flight (e.g., commercial, cargo, private) have on the overall risk profile of different aircraft models?
+
+
+
+
+
+
+![Accident Severity vs Purpose of flight.](image.png)
+
+
+
+
 # Phase 1 Project Description
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
